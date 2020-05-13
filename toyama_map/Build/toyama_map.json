@@ -1,0 +1,13 @@
+{
+"companyName": "canvas",
+"productName": "webgl_toyama",
+"dataUrl": "toyama_map.data.unityweb",
+"wasmCodeUrl": "toyama_map.wasm.code.unityweb",
+"wasmFrameworkUrl": "toyama_map.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
